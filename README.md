@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @olxivelin
-- 👀 I’m interested in UX/UI and Front-End/ IOS Development!
-- 🌱 I’m currently learning Python, Javascript, and Flutter
-- 💞️ I’m looking to collaborate on startup projects
-- 📫 How to reach me jq3lin@uwaterloo.ca
+- 👀 I’m interested in UX/UI and Front-End Coding!
 
 <!---
 olxivelin/olxivelin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
